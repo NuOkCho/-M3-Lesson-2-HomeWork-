@@ -79,3 +79,5 @@ class ViewController: UIViewController {
         }
     }
 }
+
+var num = 0

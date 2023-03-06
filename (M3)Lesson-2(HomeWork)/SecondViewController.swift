@@ -72,3 +72,5 @@ class SecondViewController: UIViewController {
         super.viewDidLoad()
     }
 }
+
+var num2 = 0

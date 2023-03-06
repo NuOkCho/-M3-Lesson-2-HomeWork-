@@ -13,3 +13,5 @@ class ThirdViewController: UIViewController {
         super.viewDidLoad()
     }
 }
+
+var num3 = 0

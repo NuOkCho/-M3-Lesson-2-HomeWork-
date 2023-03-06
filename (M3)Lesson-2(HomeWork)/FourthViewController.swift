@@ -13,3 +13,5 @@ class FourthViewController: UIViewController {
         super.viewDidLoad()
     }
 }
+
+var num4 = 0

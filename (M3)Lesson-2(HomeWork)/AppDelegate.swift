@@ -33,4 +33,5 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
 }
+var num8 = 0
 
